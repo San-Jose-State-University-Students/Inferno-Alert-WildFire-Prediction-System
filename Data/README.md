@@ -11,6 +11,7 @@ There are 2 images and one dataset in this folder.
  
  ![wildfire](https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System/blob/main/Data/Fire-Weather.png)
 
+Following is the scale that is used to check the possibility of wildfire taken from Canadian government records provided by National Wildfire Coordinating Group as a part of National Fire Danger Rating System developed jointly by United States and Canada: 
 
   ![wildfire](https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System/blob/main/Data/FWI%20Scale.png)
  
