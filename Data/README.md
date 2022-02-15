@@ -1,6 +1,6 @@
 # Wildfire prediction dataset
 
-There are 2 datasets in this folder.
+There are 2 images and one dataset in this folder.
 
 # Wildfires_dataset_(12) contains 12 columns (12 parameters): -
 
