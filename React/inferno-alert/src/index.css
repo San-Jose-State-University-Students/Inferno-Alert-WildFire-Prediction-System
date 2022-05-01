@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FDA172;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
