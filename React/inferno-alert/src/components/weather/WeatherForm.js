@@ -5,7 +5,7 @@ import Container from "../format/Container";
 import styles from "./WeatherForm.module.css";
 
 function WeatherForm() {
-  const prediction = "";
+  const prediction = "";  // save prediction here
 
   const [inform, setInform] = useState({});
 
@@ -21,11 +21,11 @@ function WeatherForm() {
     });
   };
 
-  const temperature = inform.current ? inform.current.temp : null;
-  const wind = inform.current ? inform.current.wind_speed : null;
-  const humidity = inform.current ? inform.current.humidity : null;
+  const temperature = inform.current ? inform.current.temp : null; // temperature value is stored here
+  const wind = inform.current ? inform.current.wind_speed : null; // wind value is stored here
+  const humidity = inform.current ? inform.current.humidity : null; // humidity value is stored here
   const r = inform.current ? inform.current.rain : null;
-  const rain = r ? inform.current.rain["1h"] : 0;
+  const rain = r ? inform.current.rain["1h"] : 0; // rain value is stored here
 
   return (
     <Container>
