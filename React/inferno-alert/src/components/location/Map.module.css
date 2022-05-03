@@ -1,0 +1,16 @@
+.area {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 55vh;
+  border-radius: 7px;
+}
+
+.l {
+  font-size: 1.2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: white;
+  background-color: darkcyan;
+  border-radius: 7px;
+}
