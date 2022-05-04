@@ -1,7 +1,6 @@
 import { useMemo, useRef, useCallback, useState } from "react";
 import { GoogleMap, Marker } from "@react-google-maps/api";
 
-import Container from "../format/Container";
 import styles from "./Map.module.css";
 
 function Map() {
@@ -49,16 +48,6 @@ function Map() {
           />
         ))}
       </GoogleMap>
-      <br/>
-      <Container>
-        <div className={styles.l}>
-          <br />
-          <div>Latitude: {lt}</div>
-          <br />
-          <div>Longitude: {lo}</div>
-          <br />
-        </div>
-      </Container>
     </div>
   );
 }
