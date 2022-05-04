@@ -41,7 +41,7 @@ function WeatherForm() {
           Load Coordinates
         </button>
       </div>
-      <br /><br />
+      <br />
       <div className={styles.values}>
         <br />
         <div>Latitude: {latitude} °</div>
@@ -49,13 +49,13 @@ function WeatherForm() {
         <div>Longitude: {longitude} °</div>
         <br />
       </div>
-      <br /><br />
+      <br />
       <div className={styles.fill}>
         <button className={styles.find} type="button" onClick={getWeather}>
           Get Prediction
         </button>
       </div>
-      <br /><br />
+      <br />
       <div className={styles.values}>
         <br />
         <div>Temperature: {temperature} °C</div>
