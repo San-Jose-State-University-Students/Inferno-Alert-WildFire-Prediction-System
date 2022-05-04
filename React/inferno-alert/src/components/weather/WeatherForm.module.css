@@ -18,6 +18,7 @@
   background-color: red;
   color: white;
   text-align: center;
+  width: max-content;
 }
 
 .find:hover {
