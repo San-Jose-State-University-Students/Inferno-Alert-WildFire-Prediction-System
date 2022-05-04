@@ -7,6 +7,7 @@ function NewPredictionTab() {
       <br/>
       <h1>Select Location</h1>
       <MapInterface />
+      <br /><br />
       <WeatherForm />
     </section>
   );
