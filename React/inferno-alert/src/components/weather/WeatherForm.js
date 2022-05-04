@@ -30,30 +30,32 @@ function WeatherForm() {
   return (
     <Container>
       <div className={styles.fill}>
-        <input
-          className={styles.coord}
-          type="text"
-          placeholder="Latitude"
-          value={latitude}
-          onChange={(event) => setLatitude(event.target.value)}
-        />
-        <br />
-        <br />
-        <input
-          className={styles.coord}
-          type="text"
-          placeholder="Longitude"
-          value={longitude}
-          onChange={(event) => setLongitude(event.target.value)}
-        />
-        <br />
-        <br />
-        <button className={styles.find} type="button" onClick={getWeather}>
-          Find
+        <button
+          className={styles.find}
+          type="button"
+          onClick={() => {
+            setLatitude(window.localStorage.getItem("lati"));
+            setLongitude(window.localStorage.getItem("long"));
+          }}
+        >
+          Load Coordinates
         </button>
+      </div>
+      <br /><br />
+      <div className={styles.values}>
         <br />
+        <div>Latitude: {latitude} °</div>
+        <br />
+        <div>Longitude: {longitude} °</div>
         <br />
       </div>
+      <br /><br />
+      <div className={styles.fill}>
+        <button className={styles.find} type="button" onClick={getWeather}>
+          Get Prediction
+        </button>
+      </div>
+      <br /><br />
       <div className={styles.values}>
         <br />
         <div>Temperature: {temperature} °C</div>
