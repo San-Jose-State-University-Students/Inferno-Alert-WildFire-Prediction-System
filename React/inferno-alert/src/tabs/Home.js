@@ -12,7 +12,7 @@ function HomeTab() {
         <h2>Fire Prediction System For Your Safety</h2>
         <br />
         <p>Other fire alert applications do not alert people until the fire is ablaze. Inferno Alert is a system that was developed to solve this problem and predicts wildfires beforehand. It takes into consideration environmental factors such as wind speed, temperature, rain, humidity and historical data.</p>
-        <p>Click on the Predict Wildfires button in the top right corner. Then select a location on the map to get its coordinates. Enter the coordinates into the text fields to get a prediction.</p>
+        <p>Click on the Predict Wildfires button in the top right corner. Select a location on the map. Then click the load coordinates button. Finally, click the get prediction button.</p>
       </Container>
     </section>
   );
