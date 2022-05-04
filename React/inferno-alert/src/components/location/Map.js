@@ -22,6 +22,9 @@ function Map() {
   const co = pin ? pin[0] : null;
   const lt = co ? pin[0].lt : null;
   const lo = co ? pin[0].lo : null;
+  
+  window.localStorage.setItem('lati', JSON.stringify(lt));
+  window.localStorage.setItem('long', JSON.stringify(lo));
 
   return (
     <div className="load">
