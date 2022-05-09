@@ -42,7 +42,7 @@ Here are the steps tp follow in order to get the web application up and running 
     pip install flask
     pip install matlibplot
     pip install pandas
-    
+    pip install
     Then, execute a final command,
     python app.py
     The above command shall also be executed anytime there is a need to run the web application again
