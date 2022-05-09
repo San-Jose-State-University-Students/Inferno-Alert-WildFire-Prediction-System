@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import axios from "axios";
 
 import Container from "../format/Container";
@@ -26,6 +26,7 @@ function WeatherForm() {
   const humidity = inform.current ? inform.current.humidity : null; // humidity value is stored here
   const r = inform.current ? inform.current.rain : null;
   const rain = r ? inform.current.rain["1h"] : 0; // rain value is stored here
+  const timez = inform.timezone ? inform.timezone : null;
 
   const setWeather = () => {
     fetch('/predict', { //add path for post method 
@@ -45,9 +46,13 @@ function WeatherForm() {
       setPre(pre);
       console.log(pre);
     });
+    if ((timez === 'Etc/GMT+8') || (timez === 'Etc/GMT+9') || (timez === 'Etc/GMT+10') || (timez === 'Etc/GMT+11') || (timez === 'Etc/GMT+12') || (timez === 'Etc/GMT-11') || (timez === 'Etc/GMT-12'))
+    {
+      setPre("");
+    }
   }
 
-  const prediction = pre ? pre.predict : "";
+  var prediction = pre ? pre.predict : "";
 
   return (
     <Container>
