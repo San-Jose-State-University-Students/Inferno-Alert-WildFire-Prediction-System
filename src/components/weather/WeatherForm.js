@@ -62,6 +62,8 @@ function WeatherForm() {
           className={styles.find}
           type="button"
           onClick={() => {
+            setInform({});
+            setPre({});
             setLatitude(window.localStorage.getItem("lati"));
             setLongitude(window.localStorage.getItem("long"));
           }}
