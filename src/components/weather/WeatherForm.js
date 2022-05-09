@@ -46,14 +46,15 @@ function WeatherForm() {
       setPre(pre);
       console.log(pre);
     });
-    if ((timez === 'Etc/GMT+8') || (timez === 'Etc/GMT+9') || (timez === 'Etc/GMT+10') || (timez === 'Etc/GMT+11') || (timez === 'Etc/GMT+12') || (timez === 'Etc/GMT-11') || (timez === 'Etc/GMT-12'))
-    {
-      setPre("");
-    }
   }
 
   var prediction = pre ? pre.predict : "";
 
+  if ((timez === 'Etc/GMT+8') || (timez === 'Etc/GMT+9') || (timez === 'Etc/GMT+10') || (timez === 'Etc/GMT+11') || (timez === 'Etc/GMT+12') || (timez === 'Etc/GMT-11') || (timez === 'Etc/GMT-12'))
+  {
+    prediction = "";
+  }
+  
   return (
     <Container>
       <div className={styles.fill}>
