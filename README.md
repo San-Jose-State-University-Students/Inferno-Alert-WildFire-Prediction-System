@@ -8,7 +8,7 @@ Group 12:
           Solanki Jay (BS in Software Engineering)
           Trivedi Soumya (BS in Software Engineering)
           
-# code Structure: -
+
 # Setup/Build Instructions: -
 
 Here are the steps to follow in order to get the web application up and running on localhost:
