@@ -42,7 +42,7 @@ Here is the list of all tools we are using for this project: <br />
 * RStudio (Data Analytics): Creating custom dataset by merging subset data <br />
 * Jira (Issue Tracking and Ticketing): Keep track of progress and responsibilities<br />
 * Selenium (Testing): Used to automate web app testing activity once it is made<br />
-* BrowserStack Automate (Testing): Used to run Selenium test scripts on a web app running on localhost<br />
+* BrowserStack Automate (Testing): Used to run Selenium test scripts on localhost<br />
 * TestRail (Testing): To write test case, design test strategies and test management<br />
 * Whatsapp Group Calling (Team Meetings): For team coordination in project work <br />
 * Zoom (Project Advisor Meetings): For updating advisor with our progress<br />
