@@ -7,7 +7,51 @@ Group 12:<br />
           Patel Nimay (BS in Software Engineering)<br />
           Solanki Jay (BS in Software Engineering)<br />
           Trivedi Soumya (BS in Software Engineering)<br />
-          
+# Table of Content: 
+
+This file contains information on following aspects of our project:
+
+* Abstract<br />
+* Tools/Technologies used<br />
+* Code Structure<br />
+* Setup/Install Instructions<br />
+* References<br />
+
+# ABSTRACT: 
+
+The United States has witnessed more than 1.8 billion acres of land getting burnt this year alone and the number is suspected to increase (CNN). These fires gulp the vegetation disturbing the ecological balance in nature and destroying everything along the way.  Predicticting such fires beforehand will not only reduce the cost to combat these fires but also save thousands of lives.<br />
+
+Existing fire alert applications don't alert people until the fire is ablaze. They don’t predict future instances mainly due to the fear of the loss of business in the tourism sector. Businesses will suffer a loss if such alerts are provided in advance; As in the case of Lake Tahoe: Visitors were unaware about the susceptibility of a wildfire breakout and restaurants were afraid that they would lose money if they told visitors not to come. <br />
+
+The project aims to build up on the existing fire detection models and datasets to fabricate an application that alerts people nearing a fire risk zone. This alert might save billions of dollars and livestock. The project takes into consideration the history of that place and the environmental factors such as: wind, FFMC, temperature, DMC etc. to make as accurate a prediction as possible displaying its results on a web application. <br />
+
+# Tools/Technologies used: 
+
+Here is the list of all tools we are using for this project: <br />
+ 
+* React (FrontEnd): We created a web application UI for manually putting values<br />
+* Node.js (FrontEnd): Javascript runtime environment for executing JS code<br />
+* Google Maps Javascript API (UI Maps): Integrating a dynamic map for user input<br />
+* OpenWeatherMap API(UI MAps): Fetching weather data for the selected location<br />
+* npm PackageRunner (FrontEnd): Package manager for Node.js code execution<br />
+* VSCode (FrontEnd): Source code editor for Front end web app development <br />
+* Google Colab(ML Model): Used as cloud-based Jupyter Notebook environment<br />
+* Flask (API Development): Develop custom API for FWI calculation <br />
+* Jupyter Notebooks (ML Algorithm): Create and share documents with live code <br />
+* Google Data Studio (Dataset): Create data visualization from custom dataset<br />
+* RStudio (Data Analytics): Creating custom dataset by merging subset data <br />
+* Jira (Issue Tracking and Ticketing): Keep track of progress and responsibilities<br />
+* Selenium (Testing): Used to automate web app testing activity once it is made<br />
+* BrowserStack Automate (Testing): Used to run Selenium test scripts on a web app running on localhost<br />
+* TestRail (Testing): To write test case, design test strategies and test management<br />
+* Whatsapp Group Calling (Team Meetings): For team coordination in project work <br />
+* Zoom (Project Advisor Meetings): For updating advisor with our progress<br />
+* Diagrams.net (UML Diagrams): Design and develop software architecture<br />
+* Lucid Chart (UI Mockups): Design and develop software architecture <br />
+* Google Drive (Documentation): Document sharing and documentation purposes<br />
+* Github (Software hosting): Sharing dataset and coding files and hosting web app<br />
+
+# Code Structure: 
 
 # Setup/Build Instructions: -
 
@@ -50,7 +94,6 @@ Here are the steps to follow in order to get the web application up and running 
 * Then, execute a final command,<br />
 *         npm start
 * The above command should automatically open a tab in your browser with the application running. The above command shall also be executed anytime there is a need to run the web application again<br />
-
 
 # References:
 
