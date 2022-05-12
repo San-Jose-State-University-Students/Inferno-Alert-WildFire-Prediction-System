@@ -54,8 +54,10 @@ Here are the steps to follow in order to get the web application up and running 
 
 # References:
 
-* A. Srinivasan, “Leveraging Machine Learning to predict wildfires: Contributing to the United Nations Sustainable…,” Medium, Dec. 15, 2020. https://towardsdatascience.com/ leveraging-machine-learning-to-predict-wildfires-contributing-to-the-united-nations-sustainable-a10c5044dcae?gi=8bb471cae7bb (accessed Nov. 11, 2021).
+* A. Srinivasan, “Leveraging Machine Learning to predict wildfires: Contributing to the United Nations Sustainable…,” Medium, Dec. 15, 2020. https://towardsdatascience.com/leveraging-machine-learning-to-predict-wildfires-contributing-to-the-united-nations-sustainable-a10c5044dcae?gi=8bb471cae7bb (accessed Nov. 11, 2021).
+
 * Berwyn, B. (2018, August 23). How wildfires can affect climate change (and vice versa). Inside Climate News. Retrieved October 13, 2021, from https://insideclimatenews.org/news/23082018/extreme-wildfires-climate-change-global-warming-air-pollution-fire-management-black-carbon-co2/?gclid=CjwKCAjwh5qLBhALEiwAioodswvm5t4B9zB9Y1DyXOL95K-c1jGadth4zRsfAOhmaadDA8eE0K-hpRoC6DcQAvD_BwE.
+
 * Cardille, J. A., Ventura, S. J., & Turner, M. G. (2001). Environmental and Social Factors Influencing Wildfires in the Upper Midwest, United States. Ecological Applications, 11(1), 111–127. https://doi.org/10.1890/1051-0761(2001)011[0111:
 EASFIW]2.0.CO;2
 
@@ -65,14 +67,11 @@ EASFIW]2.0.CO;2
 
 * Jain, P., Coogan, S. C. ., Subramanian, S. G., Crowley, M., Taylor, S., & Flanigan, M. D. (2020). A review of machine learning application in wildfire science and management. Environmental Reviews, 28(4), 478–505. https://doi.org/10.1139/er-2020-0019
 
-* J. Brownlee, “How to Connect Model Input Data With Predictions for Machine Learning,” Machine Learning Mastery, Nov. 14, 2019.https://machinelearningmastery
-.com/how-to-connect-model-input-data-with-predictions-for-machine-learning/ (accessed Nov. 11, 2021).
+* J. Brownlee, “How to Connect Model Input Data With Predictions for Machine Learning,” Machine Learning Mastery, Nov. 14, 2019. https://machinelearningmastery.com/how-to-connect-model-input-data-with-predictions-for-machine-learning/ (accessed Nov. 11, 2021).
 
-* Kaustumbh Jaiswal, “Deploying a Machine Learning Model Using Django: Part-1,” Medium, Jul. 03, 2019. https://medium.com/saarthi-ai/deploying-a-machine-learning-
-model-using-django-part-1-6c7de05c8d7.
+* Kaustumbh Jaiswal, “Deploying a Machine Learning Model Using Django: Part-1,” Medium, Jul. 03, 2019. https://medium.com/saarthi-ai/deploying-a-machine-learning-model-using-django-part-1-6c7de05c8d7.
 
-* K. Nighania, “Various ways to evaluate a machine learning models performance,” Medium, Jan. 30, 2019. https://towardsdatascience.com/various-ways-to-evaluate-a-
-machine-learning-models-performance-230449055f15.
+* K. Nighania, “Various ways to evaluate a machine learning models performance,” Medium, Jan. 30, 2019. https://towardsdatascience.com/various-ways-to-evaluate-a-machine-learning-models-performance-230449055f15.
 
 * Lall, S., & Mathibela, B. (2016). The application of artificial neural networks for wildfire risk prediction. 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA), 1–6. https://doi.org/10.1109/RAHA.2016.7931880
 
