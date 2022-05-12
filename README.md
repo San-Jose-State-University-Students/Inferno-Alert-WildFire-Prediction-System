@@ -2,11 +2,11 @@
 
 # Submitted towards Charles Davidson College of Engineering, San Jose State University
 
-Group 12:
-          Patel Deep (BS in Software Engineering)
-          Patel Nimay (BS in Software Engineering)
-          Solanki Jay (BS in Software Engineering)
-          Trivedi Soumya (BS in Software Engineering)
+Group 12:<br />
+          Patel Deep (BS in Software Engineering)<br />
+          Patel Nimay (BS in Software Engineering)<br />
+          Solanki Jay (BS in Software Engineering)<br />
+          Trivedi Soumya (BS in Software Engineering)<br />
           
 
 # Setup/Build Instructions: -
