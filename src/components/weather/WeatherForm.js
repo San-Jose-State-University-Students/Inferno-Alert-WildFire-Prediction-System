@@ -12,7 +12,7 @@ function WeatherForm() {
   const [latitude, setLatitude] = useState("");
   const [longitude, setLongitude] = useState("");
 
-  const call = `https://api.openweathermap.org/data/2.5/onecall?lat=${latitude}&lon=${longitude}&units=metric&exclude=minutely,hourly,daily,alerts&appid=7f8a2136a86260984191662d31caa412`;
+  const call = `https://api.openweathermap.org/data/2.5/onecall?lat=${latitude}&lon=${longitude}&units=metric&exclude=minutely,hourly,daily,alerts&appid=`;
 
   const getWeather = (event) => {
     axios.get(call).then((response) => {
