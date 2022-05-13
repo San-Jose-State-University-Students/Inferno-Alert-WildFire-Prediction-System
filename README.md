@@ -10,7 +10,7 @@ Group 12:<br />
 
 # Link to the Github Repository: 
 
-         https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System
+https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System
 
 # Table of Content: 
 
