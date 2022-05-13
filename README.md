@@ -93,7 +93,7 @@ Here are the steps to follow in order to get the web application up and running 
 *         pip install pandas
 *         pip install scikit-learn==0.24.1
 * Then, execute a final command,<br />
-*         python app.py<br />
+*         python app.py
 * The above command shall also be executed anytime there is a need to run the web application again<br />
 * After this, leave the CLI window as it is, and open a new and seperate window<br />
 * Here too, navigate yourself inside the source code folder.<br />
