@@ -7,6 +7,11 @@ Group 12:<br />
           Patel Nimay (BS in Software Engineering)<br />
           Solanki Jay (BS in Software Engineering)<br />
           Trivedi Soumya (BS in Software Engineering)<br />
+
+# Link to the Github Repository: 
+
+*         https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System
+
 # Table of Content: 
 
 This file contains information on following aspects of our project:
