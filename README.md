@@ -51,7 +51,15 @@ Here is the list of all tools we are using for this project: <br />
 * Google Drive (Documentation): Document sharing and documentation purposes<br />
 * Github (Software hosting): Sharing dataset and coding files and hosting web app<br />
 
-# Code Structure: 
+# Code Structure:
+
+### ReactJS <br />
+
+![image](https://github.com/San-Jose-State-University-Students/Inferno-Alert-WildFire-Prediction-System/blob/main/images/ReactJS%20Code%20Structure.png)
+
+<br />One of the advantages of ReactJS is that you can divide your code in small snippets called components. These snippets of code can be reused throughout the application. So it can be said that a web application in ReactJS is created by integrating these components together. Most ReactJS applications have App.js, index.js, and index.css files. The App.js file is the main file where all the components are brought together. In our application, the App.js file contains the TitleBar, Home, and New Prediction components. These three components are made from combining all the other components defined in the code (for a better understanding, look at the diagram above). Additionally, each component can have its own CSS file that contains code specific to that component. The index.js file is used to tell where the code needs to be rendered. In our application, index.js is used to render the App component. In our code, index.js can be thought of as the starting point of the entire application. Finally, index.css file contains the CSS code that is applicable to the entire application.
+
+### Flask
 
 # Setup/Build Instructions: -
 
@@ -129,3 +137,9 @@ EASFIW]2.0.CO;2
 * Turner, J.A.; Lawson, B.D. 1978. Weather in the Canadian Forest Fire Danger Rating System. A user guide to national standards and practices. Environment Canada, Pacific Forest Research Centre, Victoria, BC. BC-X-177.
 
 * Van Wagner, C.E.; Pickett, T.L. 1985. Equations and FORTRAN program for the Canadian Forest Fire Weather Index System. Canadian Forest Service, Ottawa, ON. Forestry Technical Report 33.
+
+* Academind. (2021, May 5). React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! [Video]. YouTube. https://www.youtube.com/watch?v=Dorf8i6lCuk
+
+* Halliday, L. H. [Leigh Halliday]. (2020, May 18). Google Maps & Google Places in React [Video]. YouTube. https://www.youtube.com/watch?v=WZcxJGmLbSo
+
+* Code Commerce. (2022, January 20). Build A React JS Weather App - OpenWeatherMap API - Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=UjeXpct3p7M
