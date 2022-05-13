@@ -102,6 +102,9 @@ Here are the steps to follow in order to get the web application up and running 
 * Then, execute a final command,<br />
 *         npm start
 * The above command should automatically open a tab in your browser with the application running. The above command shall also be executed anytime there is a need to run the web application again<br />
+* Everytime the application needs to be run again, the following two commands should be executed after navigating to this project folder in two separate windows of the CLI:
+*         npm start
+*         python app.py
 
 # References:
 
