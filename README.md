@@ -112,6 +112,8 @@ Here are the steps to follow in order to get the web application up and running 
 
 * A. Srinivasan, “Leveraging Machine Learning to predict wildfires: Contributing to the United Nations Sustainable…,” Medium, Dec. 15, 2020. https://towardsdatascience.com/leveraging-machine-learning-to-predict-wildfires-contributing-to-the-united-nations-sustainable-a10c5044dcae?gi=8bb471cae7bb (accessed Nov. 11, 2021).
 
+* Gulati, A. P. (2021, October 21). Forest fire prediction using machine learning. Analytics Vidhya. Retrieved May 13, 2022, from https://www.analyticsvidhya.com/blog/2021/10/forest-fire-prediction-using-machine-learning/ 
+
 * Academind. (2021, May 5). React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! [Video]. YouTube. https://www.youtube.com/watch?v=Dorf8i6lCuk
 
 * Berwyn, B. (2018, August 23). How wildfires can affect climate change (and vice versa). Inside Climate News. Retrieved October 13, 2021, from https://insideclimatenews.org/news/23082018/extreme-wildfires-climate-change-global-warming-air-pollution-fire-management-black-carbon-co2/?gclid=CjwKCAjwh5qLBhALEiwAioodswvm5t4B9zB9Y1DyXOL95K-c1jGadth4zRsfAOhmaadDA8eE0K-hpRoC6DcQAvD_BwE.
