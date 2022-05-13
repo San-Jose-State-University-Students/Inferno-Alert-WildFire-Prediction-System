@@ -3,7 +3,7 @@ import Map from './Map';
 
 function MapInterface() {
     const { isLoaded } = useLoadScript({
-        googleMapsApiKey: "AIzaSyBg7lcsVD0EnefYl9tcHfB7Z05qUww6F38",
+        googleMapsApiKey: "",
         libraries: ["places"]
     });
 
