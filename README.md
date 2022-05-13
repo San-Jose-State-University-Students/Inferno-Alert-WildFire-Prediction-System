@@ -107,12 +107,18 @@ Here are the steps to follow in order to get the web application up and running 
 
 * A. Srinivasan, “Leveraging Machine Learning to predict wildfires: Contributing to the United Nations Sustainable…,” Medium, Dec. 15, 2020. https://towardsdatascience.com/leveraging-machine-learning-to-predict-wildfires-contributing-to-the-united-nations-sustainable-a10c5044dcae?gi=8bb471cae7bb (accessed Nov. 11, 2021).
 
+* Academind. (2021, May 5). React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! [Video]. YouTube. https://www.youtube.com/watch?v=Dorf8i6lCuk
+
 * Berwyn, B. (2018, August 23). How wildfires can affect climate change (and vice versa). Inside Climate News. Retrieved October 13, 2021, from https://insideclimatenews.org/news/23082018/extreme-wildfires-climate-change-global-warming-air-pollution-fire-management-black-carbon-co2/?gclid=CjwKCAjwh5qLBhALEiwAioodswvm5t4B9zB9Y1DyXOL95K-c1jGadth4zRsfAOhmaadDA8eE0K-hpRoC6DcQAvD_BwE.
 
 * Cardille, J. A., Ventura, S. J., & Turner, M. G. (2001). Environmental and Social Factors Influencing Wildfires in the Upper Midwest, United States. Ecological Applications, 11(1), 111–127. https://doi.org/10.1890/1051-0761(2001)011[0111:
 EASFIW]2.0.CO;2
 
+* Code Commerce. (2022, January 20). Build A React JS Weather App - OpenWeatherMap API - Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=UjeXpct3p7M
+
 * Ghorbanzadeh, O., Valizadeh Kamran, K., Blaschke, T., Aryal, J., Naboureh, A., Einali, J., & Bian, J. (2019). Spatial Prediction of Wildfire Susceptibility Using Field Survey GPS Data and Machine Learning Approaches. Fire (Basel, Switzerland), 2(3), 43–. https://doi.org/10.3390/fire2030043
+
+* Halliday, L. [Leigh Halliday]. (2020, May 18). Google Maps & Google Places in React [Video]. YouTube. https://www.youtube.com/watch?v=WZcxJGmLbSo
 
 * “Hybrid artificial intelligence models based on a neuro-fuzzy system and metaheuristic optimization algorithms for spatial prediction of wildfire probability,” Agricultural and Forest Meteorology, vol. 266–267, pp. 198–207, Mar. 2019, doi: 10.1016/j.agrformet.2018.12.015.
 
@@ -137,9 +143,3 @@ EASFIW]2.0.CO;2
 * Turner, J.A.; Lawson, B.D. 1978. Weather in the Canadian Forest Fire Danger Rating System. A user guide to national standards and practices. Environment Canada, Pacific Forest Research Centre, Victoria, BC. BC-X-177.
 
 * Van Wagner, C.E.; Pickett, T.L. 1985. Equations and FORTRAN program for the Canadian Forest Fire Weather Index System. Canadian Forest Service, Ottawa, ON. Forestry Technical Report 33.
-
-* Academind. (2021, May 5). React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! [Video]. YouTube. https://www.youtube.com/watch?v=Dorf8i6lCuk
-
-* Halliday, L. H. [Leigh Halliday]. (2020, May 18). Google Maps & Google Places in React [Video]. YouTube. https://www.youtube.com/watch?v=WZcxJGmLbSo
-
-* Code Commerce. (2022, January 20). Build A React JS Weather App - OpenWeatherMap API - Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=UjeXpct3p7M
