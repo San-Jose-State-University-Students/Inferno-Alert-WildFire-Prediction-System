@@ -1,6 +1,6 @@
 # Inferno-Alert-WildFire-Prediction-System
 
-# Submitted towards Charles Davidson College of Engineering, San Jose State University
+Submitted towards Charles Davidson College of Engineering, San Jose State University
 
 Group 12:<br />
           Patel Deep (BS in Software Engineering)<br />
