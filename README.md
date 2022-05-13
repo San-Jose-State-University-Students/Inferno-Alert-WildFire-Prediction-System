@@ -61,6 +61,8 @@ Here is the list of all tools we are using for this project: <br />
 
 ### Flask
 
+Flask is a lightweight framework of python where integration of front-end and back-end is very efficient. Our application utilizes Flask as the service layer, with app.py connecting the machine learning algorithms to the front-end react. The app.py has classes that accept weather data from react and apply it to python formulas, which then calculate the Fine Fuel Moisture Code (FFMC), the Duff Code (DC), and the Duff Moisture Code (DUC), from which BUI, ISI, and FWI values are obtained. These numbers are then fed into the Machine Learning model, which predicts the likelihood of a fire. The prediction is called in app.py and displayed to the user on the front-end.
+
 # Setup/Build Instructions: -
 
 Here are the steps to follow in order to get the web application up and running on localhost:
